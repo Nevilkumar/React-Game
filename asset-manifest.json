@@ -1,13 +1,20 @@
 {
   "files": {
     "main.css": "/React-Game/static/css/main.016a81fd.css",
-    "main.js": "/React-Game/static/js/main.3c14d188.js",
+    "main.js": "/React-Game/static/js/main.cde2d228.js",
+    "static/media/cover.png": "/React-Game/static/media/cover.b35cfd2810870e019e99.png",
+    "static/media/shield-1.png": "/React-Game/static/media/shield-1.a961da9569e66174ca3b.png",
+    "static/media/helmet-1.png": "/React-Game/static/media/helmet-1.d082cb3c8e66546d8921.png",
+    "static/media/potion-1.png": "/React-Game/static/media/potion-1.94e34273991220b1f174.png",
+    "static/media/scroll-1.png": "/React-Game/static/media/scroll-1.135e1c7d24aef8a9cd61.png",
+    "static/media/sword-1.png": "/React-Game/static/media/sword-1.47dbfbdd3a1e94165050.png",
+    "static/media/ring-1.png": "/React-Game/static/media/ring-1.4c376e3f983bd42b39d3.png",
     "index.html": "/React-Game/index.html",
     "main.016a81fd.css.map": "/React-Game/static/css/main.016a81fd.css.map",
-    "main.3c14d188.js.map": "/React-Game/static/js/main.3c14d188.js.map"
+    "main.cde2d228.js.map": "/React-Game/static/js/main.cde2d228.js.map"
   },
   "entrypoints": [
     "static/css/main.016a81fd.css",
-    "static/js/main.3c14d188.js"
+    "static/js/main.cde2d228.js"
   ]
 }
